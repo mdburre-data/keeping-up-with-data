@@ -1,11 +1,9 @@
 fastapi
-uvicorn[standard]
+uvicorn
+pydantic
 pandas
-numpy
-scikit-learn
 prophet
 pytrends
-openai
-sentence-transformers
-rapidfuzz
-scipy
+scikit-learn
+numpy
+python-dateutil
